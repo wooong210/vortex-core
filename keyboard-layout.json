@@ -1,0 +1,132 @@
+[
+  [
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00"
+    },
+    "Esc\n~\n\n`",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00\n\n\n\n\n\n#110fff"
+    },
+    "Q\n\n\nF1\n\n\n\n\n\nvol-",
+    "W\n\n\nF2\n\n\n\n\n\nvol+",
+    "E\n\n\nF3\n\n\n\n\n\nmute",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00"
+    },
+    "R\n\n\nF4",
+    "T\n\n\nF5",
+    "Y\n\n\nF6",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00\n\n\n\n\n\n#110fff"
+    },
+    "U\n\n\nF7\n\n\n\n\n\npgup",
+    "I\n\n\nF8\n\n\n\n\n\nup",
+    "O\n\n\nF9\n\n\n\n\n\npgdn",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00"
+    },
+    "P\n\n\nF10",
+    {
+      "t": "#000000\n\n\n#ff2e00"
+    },
+    "Del\n\n\nF11",
+    "Back\n\n\nF12\n\n\nspace"
+  ],
+  [
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00\n\n\n\n\n\n#110fff",
+      "w": 1.25
+    },
+    "Tab\n!\n\n1\n\n\n\n\n\nCaps",
+    "A\n@\n\n2\n\n\n\n\n\nrwd",
+    "S\n#\n\n3\n\n\n\n\n\nplay",
+    "D\n$\n\n4\n\n\n\n\n\nfwd",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00"
+    },
+    "F\n%\n\n5",
+    "G\n^\n\n6",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00\n\n\n\n\n\n#110fff"
+    },
+    "H\n&\n\n7\n\n\n\n\n\nhome",
+    "J\n*\n\n8\n\n\n\n\n\nleft",
+    "K\n(\n\n9\n\n\n\n\n\ndown",
+    "L\n)\n\n0\n\n\n\n\n\nright",
+    ";\n_\n:\n-\n\n\n\n\n\nIns",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00",
+      "w": 1.75
+    },
+    "Enter\n+\n\n-"
+  ],
+  [
+    {
+      "t": "#000000",
+      "w": 1.75
+    },
+    "Shift",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00"
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    {
+      "t": "#000000\n#e68800\n\n#ff2e00"
+    },
+    "B\n\"\n\n'",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00\n\n\n\n\n\n#110fff"
+    },
+    "N\n?\n\n/\n\n\n\n\n\nend",
+    "M\n{\n\n[\n\n\n\n\n\nL0",
+    ",\n}\n<\n]\n\n\n\n\n\nL1",
+    ".\n|\n>\n\\\n\n\n\n\n\nL2",
+    {
+      "t": "#000000\n\n\n\n\n\n\n\n\n#110fff",
+      "w": 1.25
+    },
+    "Up\n\n\n\n\n\n\n\n\nL3",
+    {
+      "t": "#1400f7"
+    },
+    "Fn"
+  ],
+  [
+    {
+      "t": "#000000",
+      "w": 1.25
+    },
+    "Ctrl",
+    "Alt",
+    "Win",
+    {
+      "t": "#c27600"
+    },
+    "Pn",
+    {
+      "t": "#000000",
+      "w": 1.75
+    },
+    "Space",
+    {
+      "w": 2.75
+    },
+    "Backspace",
+    {
+      "t": "#d10000"
+    },
+    "Fn1",
+    {
+      "t": "#000000"
+    },
+    "Left",
+    "Down",
+    {
+      "w": 1.25
+    },
+    "Right"
+  ]
+]
